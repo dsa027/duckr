@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @dsa027
- Sign out
- Watch 5
-  Star 63  Fork 64 tylermcginnis/Redux
- Code  Issues 3  Pull requests 3  Projects 0  Wiki  Insights
-Branch: 4-reducers Find file Copy pathRedux/reducers.js
-f6d6224  on Apr 8, 2016
-@tylermcginnis tylermcginnis 4-reducers
-1 contributor
-RawBlameHistory
-450 lines (416 sloc)  8.52 KB
 // Users
 const initialUserState = {
   lastUpdated: 0,
