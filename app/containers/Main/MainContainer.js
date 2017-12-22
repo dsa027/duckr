@@ -4,7 +4,7 @@ import createReactClass from 'create-react-class'
 const MainContainer = createReactClass({
   render () {
     return (
-      <p>{'Hello World!!'}</p>
+      <p>{'Hello, World'}</p>
     )
   },
 })
